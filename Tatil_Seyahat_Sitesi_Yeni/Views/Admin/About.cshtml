@@ -1,0 +1,41 @@
+﻿@using Tatil_Seyahat_Sitesi_Yeni.Models.Siniflar
+@model List<Hakkımızda>
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<br />
+<h2>Hakkımda Sayfası</h2>
+<br />
+<br />
+<br />
+
+<table class="table table-bordered">
+    <tr>
+        <th> Id</th>
+        <th> Resim</th>
+        <th> Açıklama</th>
+        <th> Sil</th>
+        <th> Güncelle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.ResimUrl</td>
+            <td>@item.Aciklama</td>
+            <td><a href="/Admin/AboutSil/@item.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Admin/AboutGetir/@item.ID" class="btn btn-success">Güncelle</a></td>
+
+        </tr>
+   
+    }
+
+
+</table>
+
+
+<a href="/Admin/YeniAbout/" class="btn btn-primary">Yeni Hakkımda Bilgisi Ekleme</a>
+

@@ -1,0 +1,78 @@
+﻿@using Tatil_Seyahat_Sitesi_Yeni.Models.Siniflar
+@model List<AdresBlog>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+
+<body>
+    <div class="contact">
+        <div class="wrap">
+
+            <div class="contact-top">
+                <h3>
+                    İletişim Bilgileri
+                </h3>
+                <p> Bize ulaşmak için aşağıdaki bilgileri kullanabilirsiniz. Her türlü soru, öneri ve geri bildirimleriniz için sabırsızlanıyoruz. En kısa sürede size dönüş yapacağız.</p>
+            </div>
+            <div class="form">
+                <form class="cmxform" id="contactForm" method="post">
+                    <div>
+                        <input type="text" class="textbox" value="İsim:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+                    </div>
+                    <div>
+                        <input type="text" class="textbox" value="Mail:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mail';}">
+                    </div>
+                    <div>
+                        <input type="text" class="textbox" value="Telefon:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telefon';}">
+                    </div>
+                    <div>
+                        <p><span class="read">Kabul Et</span></p>
+                    </div>
+                </form>
+            </div>
+            <div class="form1">
+                <div>
+                    <textarea value="Mesaj:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mesaj';}">Mesaj:</textarea>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="contact-bottom">
+                <div class="contact-left">
+                    <div class="contact-add">
+                        <h3>Adres</h3>
+                        <p> Türkiye İstanbul </p>
+                        <p>Telefon:   +90 000 000 00 00 </p>
+                        <p>Mail:   <a href="mailto:signup@gmail.com">turgut.eren2002@gmail.com</a></p>
+                    </div>
+                    <div class="contact-add">
+                        <h3>İkinic Adres Bilgilerimiz</h3>
+                        <p> Türkiye İstanbul </p>
+                        <p>Telefon:   +90 000 000 00 00 </p>
+                        <p>Mail:   <a href="mailto:signup@gmail.com">turgute557@gmail.com</a></p>
+                    </div>
+
+                </div>
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60237.89786084243!2d28.979530442452646!3d41.01513742080502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba1db36ba25f%3A0xb27fbc3b6b8da4ed!2sIstanbul%2C%20Turkey!5e0!3m2!1sen!2sus!4v1654785676324!5m2!1sen!2sus" width="580" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                <div class="clear"></div>
+            </div>
+
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

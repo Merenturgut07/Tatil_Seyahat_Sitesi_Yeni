@@ -1,0 +1,29 @@
+﻿@model Tatil_Seyahat_Sitesi_Yeni.Models.Siniflar.Hakkımızda
+@{
+    ViewBag.Title = "YeniAbout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+<h2>Yeni Hakkımda Bilgisi Ekleme Sayfası</h2>
+<br />
+
+
+<form class="form-group" method="post">
+
+
+    @Html.LabelFor(x => x.ResimUrl)
+    @Html.TextBoxFor(x => x.ResimUrl, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(x => x.Aciklama)
+    @Html.TextAreaFor(x => x.Aciklama, 8, 2, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-primary">Blok Ekle</button>
+
+
+</form>
+

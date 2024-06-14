@@ -1,0 +1,27 @@
+﻿@model Tatil_Seyahat_Sitesi_Yeni.Models.Siniflar.Hakkımızda
+@{
+    ViewBag.Title = "AboutGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Hakkımda Güncelleme Sayfası</h2>
+<br />
+
+@using (Html.BeginForm("AboutGuncelle", "Admin", FormMethod.Post))
+{
+
+    @Html.LabelFor(x => x.ID)
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+
+    @Html.LabelFor(x => x.ResimUrl)
+    @Html.TextBoxFor(x => x.ResimUrl, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Aciklama)
+    @Html.TextAreaFor(x => x.Aciklama, 8, 2, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-info">Hakkımda Bilgisini Güncelle</button>
+
+}
+
