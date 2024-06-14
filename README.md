@@ -8,5 +8,5 @@ Bu proje Asp.Net Mvc ile hazılanmıştır. Murat Yücedağ tarafından Youtube'
 # Giriş Yapma Ekranı 
 
 -Kullanıcı adı ve şifre ile birlikte sisteme giriş yapılmaktadır.
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 ![LoginSayfası](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/ed66c647-7b9e-4ccb-8705-eab24634bb57)
