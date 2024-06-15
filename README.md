@@ -44,8 +44,13 @@ Siteye git kısmına tıklandığında bizi Tatil Seyehat Sitesine yönlendiriyo
 <br/><br/><br/>
 
 # Tatil Seyehat Sitesi Ana Sayfa
-Bu kısımda 
+Bu kısımda kullanıcıların ziyaret ettiği daha önceden  gezilen ülkelerin fotoğraflarını gördüğü Tatil Seyehat Sitesi Ana sayfası.  
+<br/><br/><br/>
 ![Free Easy-Trip Website Template _ Home __ w3layouts ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 15 06 2024 10_07_29](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/ae651d6d-c59c-4150-b769-c992b3eaafc7)
+<br/><br/><br/>
+![AnaSayfa2](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/1c7b58ec-9d42-4b9b-99ee-e6b3e0d885e3)
+
+
 
 
 
