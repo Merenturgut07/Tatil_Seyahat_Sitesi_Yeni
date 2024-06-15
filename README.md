@@ -50,6 +50,19 @@ Bu kısımda kullanıcıların ziyaret ettiği daha önceden  gezilen ülkelerin
 <br/><br/><br/>
 ![AnaSayfa2](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/1c7b58ec-9d42-4b9b-99ee-e6b3e0d885e3)
 
+# Tatil Seyehat Sitesi Hakkımızda 
+<br/><br/><br/>
+![Free Easy-Trip Website Template _ Home __ w3layouts - Profil 1 - Microsoft​ Edge 15 06 2024 10_15_30](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/c86965e4-fa0c-4dfd-b0f3-6f2bfa3b17c9)
+
+# Tatil Seyehat Sitesi Bloğum kısımı
+Bu kısımda gezilmiş olan ülkeler ile alakalı ülkenin tarihçesi gibi bilgilerin sunulduğu bölümdür.Aynı zamanda ülke hakkında  yapılan yorumların görüldüğü ve yeni yorumların yapılabildiği bölümdür.
+<br/><br/><br/>
+![Free Easy-Trip Website Template _ Home __ w3layouts - Profil 1 - Microsoft​ Edge 15 06 2024 10_17_55](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/94d9bcf7-0357-4e3a-9e13-877fd2ca5845)
+<br/><br/><br/>
+![Free Easy-Trip Website Template _ Home __ w3layouts - Profil 1 - Microsoft​ Edge 15 06 2024 10_21_47](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/87e66d83-a688-4dba-a86d-e8a5c508a0c8)
+
+
+
 
 
 
