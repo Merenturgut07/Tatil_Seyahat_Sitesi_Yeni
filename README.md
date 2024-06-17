@@ -62,8 +62,12 @@ Bu kısımda gezilmiş olan ülkeler ile alakalı ülkenin tarihçesi gibi bilgi
 ![Free Easy-Trip Website Template _ Home __ w3layouts - Profil 1 - Microsoft​ Edge 15 06 2024 10_21_47](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/87e66d83-a688-4dba-a86d-e8a5c508a0c8)
 
 
-# Ttail Seyehat Sitesi İletişim Kısımı
+# Tatail Seyehat Sitesi İletişim Kısımı
 ![Free Easy-Trip Website Template _ Home __ w3layouts - Profil 1 - Microsoft​ Edge 15 06 2024 10_23_15](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/21dd6a1f-1778-46ae-b09b-7126acbecde4)
+
+# Proje Veri Tabanı
+![DESKTOP-FCK5R8M_SQLEXPRESS NewTravelDb - Diagram_1_ - Microsoft SQL Server Management Studio 17 06 2024 12_52_35](https://github.com/Merenturgut07/Tatil_Seyahat_Sitesi_Yeni/assets/149729571/b93abf42-38a1-41fa-8dd7-5af09bcdd123)
+
 
 
 
