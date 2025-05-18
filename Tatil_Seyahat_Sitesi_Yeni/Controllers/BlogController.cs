@@ -30,6 +30,12 @@ namespace Tatil_Seyahat_Sitesi_Yeni.Controllers
             return View(by);
         }
 
+
+
+
+        //Yorum İşlemleri
+
+
         [HttpGet]
         public PartialViewResult YorumYap(int id)
         {

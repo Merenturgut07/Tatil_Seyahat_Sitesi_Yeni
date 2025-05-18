@@ -7,11 +7,13 @@ using Tatil_Seyahat_Sitesi_Yeni.Models.Siniflar;
 
 namespace Tatil_Seyahat_Sitesi_Yeni.Controllers
 {
-	public class AdminController : Controller
+    [Authorize]
+    public class AdminController : Controller
 	{
 		// GET: Admin
 		Context c = new Context();
-		[Authorize]
+
+
 		public ActionResult Index()
 		{
 			var degerler = c.blogs.ToList();
@@ -59,6 +61,7 @@ namespace Tatil_Seyahat_Sitesi_Yeni.Controllers
 			c.SaveChanges();
 			return RedirectToAction("Index");
 		}
+
 
 		// Yorum Controller Olarak da alınabilirdi
 		public ActionResult YorumListesi()
@@ -126,6 +129,7 @@ namespace Tatil_Seyahat_Sitesi_Yeni.Controllers
 			c.SaveChanges();
 			return RedirectToAction("About");
 		}
+
 
 
 		public ActionResult AboutGetir(int id)
